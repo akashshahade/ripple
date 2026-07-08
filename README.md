@@ -10,13 +10,6 @@ machine.
 <!-- Add a screenshot or GIF of the card appearing here once you have one:
 ![Ripple nudge card](./screenshot.png) -->
 
-## Why
-
-Deep focus is great, until three hours pass and you realize you haven't
-moved, blinked properly, or had water since morning. Ripple doesn't try to
-be a productivity system or another dashboard to check. It shows up for
-five seconds, says one gentle thing, and gets out of your way.
-
 ## What it does
 
 - Shows a small card in the corner of your screen every N minutes (you
@@ -27,17 +20,6 @@ five seconds, says one gentle thing, and gets out of your way.
   in your way
 - Works on every site, but never touches or reads anything on the page
   it appears over
-
-## What to expect
-
-- The card appears bottom-right, slides up gently, and shows a small
-  water-ripple animation — that's it. It never takes over your screen or
-  blocks what you're doing.
-- It only shows up on your **currently active tab**, so it won't spam
-  background tabs you're not even looking at.
-- Everything is stored locally (via Chrome's own `storage` API) — your
-  settings may sync across your own signed-in Chrome browsers, but nothing
-  ever leaves Chrome or gets sent to a server, because there is no server.
 
 ## Install
 
